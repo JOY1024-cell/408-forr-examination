@@ -11,7 +11,31 @@
 	- 紧急:
 		○ 赚钱--通过毕业设计
 
-<img width="466" height="851" alt="image" src="https://github.com/user-attachments/assets/a8891cad-e1a8-4962-8b1a-baeeeb00aaa9" />
+# 目前在做:
+	408学习-计算机网络学习
+	tick软件使用和完善
+	期末备考
+	读书
+	思维学习
+	maki学习方式获取
+	github学习和ACM尝试
+		git技术又需要重新学习
+		数据结构算法
+	年初计划
+	
+	
+简化所要做的:
+	学习
+	赚钱
+	整理思路
+	生活
+	
+	这几天能做的:
+		快速读书
+		软件保存
+
+
+
 
 考研完成的习题记录
   
